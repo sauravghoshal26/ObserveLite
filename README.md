@@ -574,13 +574,10 @@ observelite/
 
 ## Screenshots
 
-Suggested screenshots for a portfolio page:
-
-- `docs/screenshots/fastapi-docs.png`
 - `docs/screenshots/docker-logs.png`
 - `docs/screenshots/prometheus-query.png`
 - `docs/screenshots/grafana-dashboard.png`
-- `docs/screenshots/jaeger-trace.png`
+
 
 ## Troubleshooting
 
