@@ -1,0 +1,2 @@
+"""ObserveLite application package."""
+
